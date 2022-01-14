@@ -3,7 +3,11 @@ Uses voice recognition to monitor your progress through your script, automatical
 
 # Demo
 Be sure to turn your sound on!
-https://user-images.githubusercontent.com/8853022/149583940-a2ea8281-4ea8-4db2-aba4-9e2f36c93768.mp4
+
+
+https://user-images.githubusercontent.com/8853022/149584175-e340f5c2-4c4d-4785-b31d-66b17cf88d38.mp4
+
+
 
 ## Tech
 * Frontend: React JS
